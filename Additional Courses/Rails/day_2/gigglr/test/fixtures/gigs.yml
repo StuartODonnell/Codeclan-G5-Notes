@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 10.00
+  date: 2016-04-13 13:00:00
+  artist_id: 1
+  venue_id: 1
+
+two:
+  price: 15.00
+  date: 2016-04-13 13:00:00
+  artist_id: 2
+  venue_id: 2

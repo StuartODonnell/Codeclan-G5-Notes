@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors Lizard Spock</string>
+    <string name="make_selection">Make your choice</string>
+    <string name="android_selection">Android chooses</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="lizard">Lizard</string>
+    <string name="spock">Spock</string>
+    <string name="draw">It\'s a draw!</string>
+    <string name="user">You win!</string>
+    <string name="android">Android wins!</string>
+    <string name="invalid">Not a valid choice!</string>
+    <string name="userChose">You chose\ : \</string>
+    <string name="androidChose">Android chose\ : \</string>
+    <string name="scoreUser">You\ : \</string>
+    <string name="scoreAndroid">Android\ : \</string>
+</resources>

@@ -1,0 +1,10 @@
+# Upgrading to Android Studio 3
+
+### For instructor to check.
+
+
+* After the students have set up Android studio make sure that they update it. 
+
+*The code in repo was built in AS 2 so will need to update build tools as well.
+
+* Best way to do this is have them open the robot start code and install the tools when asked.
