@@ -1,0 +1,8 @@
+<p class="pageHeader">Edit Department</p>
+
+<form action="/departments/$department.getId()" method="post">
+    <label for="title">Title:</label>
+    <input class="inputbox" type="text" name="title" required="true" value="$department.getTitle()">
+
+    <input type="submit" value="Save" class="button">
+</form>

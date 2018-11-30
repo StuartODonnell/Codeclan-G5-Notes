@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotations_lab_start" />
+        <module name="hibernate_annotations_intro_end" />
+        <module name="one_to_many_annotations_end" />
+        <module name="one_to_many_annotations_start" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotations_lab_start" target="1.5" />
+      <module name="hibernate_annotations_intro_end" target="1.5" />
+      <module name="one_to_many_annotations_end" target="1.5" />
+      <module name="one_to_many_annotations_start" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+/Users/sandy/spark_deployment/src/main/java/db/DBHelper.java
+/Users/sandy/spark_deployment/src/main/java/controllers/ManagersController.java
+/Users/sandy/spark_deployment/src/main/java/db/Seeds.java
+/Users/sandy/spark_deployment/src/main/java/controllers/LoginController.java
+/Users/sandy/spark_deployment/src/main/java/models/Manager.java
+/Users/sandy/spark_deployment/src/main/java/models/Engineer.java
+/Users/sandy/spark_deployment/src/main/java/models/Employee.java
+/Users/sandy/spark_deployment/src/main/java/controllers/MainController.java
+/Users/sandy/spark_deployment/src/main/java/controllers/EmployeesController.java
+/Users/sandy/spark_deployment/src/main/java/controllers/EngineersController.java
+/Users/sandy/spark_deployment/src/main/java/controllers/DepartmentsController.java
+/Users/sandy/spark_deployment/src/main/java/models/Department.java
+/Users/sandy/spark_deployment/src/main/java/db/HibernateUtil.java

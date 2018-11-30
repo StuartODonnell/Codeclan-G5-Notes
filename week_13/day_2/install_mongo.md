@@ -1,0 +1,5 @@
+- `brew update` - if don't have permissions -> `sudo chmod 777 /usr/local` then `brew update` again
+- `sudo mkdir -p /data/db`
+- `sudo chmod 777 /data/db`
+- `brew install mongodb`
+- Type `mongo` to confirm

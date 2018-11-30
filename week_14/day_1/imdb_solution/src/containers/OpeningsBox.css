@@ -1,0 +1,7 @@
+.openings-box {
+  margin: 0 auto;
+  width: 35vw;
+  background-color: #dedede;
+  display: flex;
+  flex-direction: column;
+}

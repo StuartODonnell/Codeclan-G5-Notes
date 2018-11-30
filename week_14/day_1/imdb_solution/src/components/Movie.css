@@ -1,0 +1,33 @@
+.movie-card {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  color: #2b80d9;
+}
+
+.movie-card__details {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 10px;
+}
+
+.showtimes-false {
+  visibility: hidden;
+}
+
+.showtimes-true {
+  visibility: visible;
+}
+
+.showtimes {
+  color: #2b80d9;
+  border: none;
+  background-color: transparent;
+  font-size: 15px;
+}
+
+.showtimes:focus {
+  outline: none;
+}

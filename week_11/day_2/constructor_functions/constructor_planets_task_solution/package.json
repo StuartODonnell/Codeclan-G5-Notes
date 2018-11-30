@@ -1,0 +1,14 @@
+{
+  "name": "constructor_planets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "planet.js",
+  "scripts": {
+    "test": "mocha planet_spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
